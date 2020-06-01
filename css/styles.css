@@ -86,6 +86,20 @@ img {
   color: #006994;
 }
 
+#about {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #0ABAB5;
+  color: #fff;
+  padding-bottom: 3%;
+}
+
+.profile-img {
+  width: 30%;
+  border-radius:100%;
+  padding-bottom: 5%;
+}
+
 #footer {
   padding: 5% 15%;
   text-align: center;
