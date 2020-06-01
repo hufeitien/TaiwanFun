@@ -18,7 +18,8 @@ p{
 }
 
 h1{
-font-family: 'Montserrat-Black', sans-serif;
+/* font-family: 'Montserrat-Black', sans-serif; */
+font-family: 'Russo One', sans-serif;
 font-size: 3rem;
 line-height: 1.5;
 }
@@ -45,11 +46,15 @@ padding: 0;
 
 .nav-item{
   padding: 0 18px;
+  /* font-family: "Montserrat-Light"; */
+  font-family: 'Montserrat Alternates', sans-serif;
 }
 
 .nav-link{
   font-size: 1.2rem;
-  font-family: "Montserrat-Light";
+  /* font-family: "Montserrat-Light"; */
+  font-family: 'Montserrat Alternates', sans-serif;
+
 }
 
 
